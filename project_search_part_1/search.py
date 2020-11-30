@@ -1,5 +1,3 @@
-#hello
-
 from wiki import article_titles, ask_search, ask_advanced_search
 
 # 1) 
